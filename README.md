@@ -55,3 +55,6 @@ void lm_75_setThreshold(float t_os);
 // Set Hysteresis temperature control
 void lm_75_setThyst(float t_hyst);
 ```
+
+## Feedback and Contributions
+Feedback, bug reports, and contributions are welcome! Feel free to open an issue or submit a pull request.
